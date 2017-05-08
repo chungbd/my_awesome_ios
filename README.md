@@ -16,3 +16,7 @@
 ## Customized Views
 1. [CreditCardForm](https://github.com/orazz/CreditCardForm-iOS)
 2. [DateTimePicker](https://github.com/chungbd/DateTimePicker)
+3. [Charts]https://github.com/danielgindi/Charts)
+
+## Tools for resources
+1. [UIFontComplete](https://github.com/Nirma/UIFontComplete)

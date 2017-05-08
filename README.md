@@ -21,3 +21,6 @@
 
 ## Tools for resources
 1. [UIFontComplete](https://github.com/Nirma/UIFontComplete)
+
+
+## [Design Partterns](https://github.com/ochococo/Design-Patterns-In-Swift)

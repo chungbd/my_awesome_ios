@@ -12,6 +12,7 @@
 
 ## Animations
 1. [Spruce iOS Animation Library](https://github.com/willowtreeapps/spruce-ios)
+2. [Material Motion](https://github.com/material-motion/material-motion-swift)
 
 ## Customized Views
 1. [CreditCardForm](https://github.com/orazz/CreditCardForm-iOS)
